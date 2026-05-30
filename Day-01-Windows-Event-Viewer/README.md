@@ -85,9 +85,9 @@ A successful authentication attempt was recorded.
 
 | Field       | Value         |
 | ----------- | ------------- |
-| Username    | [ENTER VALUE] |
-| Date & Time | [ENTER VALUE] |
-| Logon Type  | [ENTER VALUE] |
+| Username    | [SENTINAL$]] |
+| Date & Time | [05/30/2026, 07:29:26 pm] |
+| Logon Type  | [Audit Success] |
 
 **Analysis**
 
@@ -105,9 +105,9 @@ A failed authentication attempt was recorded.
 
 | Field          | Value         |
 | -------------- | ------------- |
-| Username       | [ENTER VALUE] |
-| Date & Time    | [ENTER VALUE] |
-| Failure Reason | [ENTER VALUE] |
+| Username       | [NIL] |
+| Date & Time    | [NIL] |
+| Failure Reason | [NIL] |
 
 **Analysis**
 
@@ -125,8 +125,8 @@ A new process was created on the system.
 
 | Field          | Value         |
 | -------------- | ------------- |
-| Process Name   | [ENTER VALUE] |
-| Parent Process | [ENTER VALUE] |
+| Process Name   | [NIL] |
+| Parent Process | [NIL] |
 
 **Analysis**
 
@@ -138,31 +138,38 @@ Process creation events help analysts track application execution and identify s
 
 ### Event Viewer Interface
 
-![Event Viewer](screenshots/eventviewer-overview.png)
+![Event Viewer]
+<img width="1920" height="1080" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/9170f9ee-14a1-4aa1-8d81-2528dafc3f7f" />
+
 
 ---
 
 ### Security Log
 
-![Security Log](screenshots/security-log.png)
+![Security Log]
+<img width="1920" height="1080" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/924d7b46-47bb-444a-b1f2-48384db5abaa" />
+
 
 ---
 
 ### Event ID 4624
 
-![4624 Event](screenshots/eventid-4624.png)
+![4624 Event]
+
+<img width="1920" height="1080" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/bcfd04e4-5997-4fdf-9fb4-989d11d3302d" />
+
 
 ---
 
 ### Event ID 4625
 
-![4625 Event](screenshots/eventid-4625.png)
+(NIL)
 
 ---
 
 ### Event ID 4688
 
-![4688 Event](screenshots/eventid-4688.png)
+(NIL)
 
 ---
 
