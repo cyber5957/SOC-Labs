@@ -7,7 +7,7 @@ This repository contains my hands-on SOC Analyst and Blue Teaming labs.
 | Day | Lab | Status |
 |------|------|------|
 | 01 | Windows Event Viewer Fundamentals | ✅ |
-| 02 | Windows Authentication Logs | ⏳ |
+| 02 | Windows Authentication Logs | ✅ |
 | 03 | Splunk Basics | ⏳ |
 
 ## Skills Covered
