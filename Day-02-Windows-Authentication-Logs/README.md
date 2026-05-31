@@ -104,15 +104,22 @@ The events were generated in a controlled testing environment and do not indicat
 
 ### Event Viewer Overview
 
-![Event Viewer](screenshots/event-viewer-overview.png)
+<img width="1920" height="1080" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/478e5cf0-50f6-43e0-9e90-6cb38090e172" />
+
 
 ### Event ID 4624
 
-![Event ID 4624](screenshots/eventid-4624.png)
+<img width="1920" height="1080" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/ec62642e-843d-4f54-bd86-a64a5218d54b" />
+
+<img width="1920" height="1080" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/1d515590-5438-4675-98f4-213b8d5390dd" />
+
+<img width="1920" height="1080" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/78ee23c1-7a06-4815-8a08-20109186f071" />
+
 
 ### Event ID 4625
 
-![Event ID 4625](screenshots/eventid-4625.png)
+<img width="1920" height="1080" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/db931b98-f8c9-4a41-b44e-e3e798ff4d36" />
+
 
 ---
 
